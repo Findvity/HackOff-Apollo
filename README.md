@@ -22,7 +22,7 @@ Then we started thinking about new approaches. Vasudha suggested a reasonable ap
 [Youtube link](https://youtu.be/zcurNaSbl6k)
 
 # Apollo Editor
-[link](https://github.com/Findvity/apollo-editor)
+[GitHub Repo link](https://github.com/Findvity/apollo-editor)
 
 Apollo Editor is a website allows the writers to generate beautiful PDF files for support manuals. They can also save the data as a JSON and export it. Apollo CLI can utilise the JSON to execute commands by itself.
 
@@ -33,7 +33,7 @@ Apollo Editor is a website allows the writers to generate beautiful PDF files fo
 * JS
 
 # Apollo CLI
-[link](https://github.com/Findvity/apollo)
+[GitHub Repo link](https://github.com/Findvity/apollo)
 
 Apollo is a CLI tool which helps you execute commands and compare responses, then take some decisions accordingly. It takes away the responsibility of wrtiting and executing commands which was error prone in case of a field engineer copying and writing. It acts as a support software and not a replacement of the field engineer.
 
